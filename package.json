@@ -1,0 +1,24 @@
+{
+  "name": "cypress-e2e-assignment",
+  "version": "1.0.0",
+  "description": "Test Automation Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nammusinha/Cypress-E2E-Assignment.git"
+  },
+  "author": "Namrata Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nammusinha/Cypress-E2E-Assignment/issues"
+  },
+  "homepage": "https://github.com/nammusinha/Cypress-E2E-Assignment#readme",
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.3",
+    "cypress": "^14.0.3",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
